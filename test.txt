@@ -1,3 +1,5 @@
 This is just sample text to demonstrate rebasing.
 
 Adding this text for rebasing.
+
+Some more testing of rebasing.
